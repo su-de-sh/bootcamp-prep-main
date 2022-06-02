@@ -4,4 +4,4 @@ let num3 = 779;
 
 // YOUR CODE BELOW
 
-let myFirstSum = 2018;
+let myFirstSum = num1 + num2 + num3;
