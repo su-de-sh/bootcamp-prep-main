@@ -62,4 +62,4 @@ function petSounds(animal, country) {
   return myStr;
 }
 
-console.log(petSounds("cat", "America"));
+// console.log(petSounds("cat", "America"));
