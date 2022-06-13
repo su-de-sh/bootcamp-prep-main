@@ -9,8 +9,8 @@ can actually take any number of values to add).
 
 Do not use .splice in your function.
 
-
 ```javascript
+
 let myArray = [1, 2, 3];
 
 mySplice(myArray, 1, 1, 'apples')) // => [2]
